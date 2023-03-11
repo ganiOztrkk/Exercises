@@ -1,0 +1,11 @@
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\bin\Debug\Proje6-2.exe.config
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\bin\Debug\Proje6-2.exe
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\bin\Debug\Proje6-2.pdb
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6-2.csproj.AssemblyReference.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6_2.Form1.resources
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6_2.Properties.Resources.resources
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6-2.csproj.GenerateResource.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6-2.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6-2.exe
+C:\Users\gani9\Desktop\C# Projects\İlişkili Veri Tabanı Hareket Tablo Ve Sorgulama Uygulaması\Proje6-2\obj\Debug\Proje6-2.pdb

@@ -1,0 +1,13 @@
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\bin\Debug\Banka_Projesi.exe.config
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\bin\Debug\Banka_Projesi.exe
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\bin\Debug\Banka_Projesi.pdb
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.csproj.AssemblyReference.cache
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.Form1.resources
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.Form2.resources
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.Form3.resources
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.Properties.Resources.resources
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.csproj.GenerateResource.cache
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.exe
+C:\Users\gani9\Desktop\C# Projects\Banka Projesi\Banka_Projesi\obj\Debug\Banka_Projesi.pdb

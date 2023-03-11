@@ -1,0 +1,11 @@
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\bin\Debug\Passaparola_Projesi.exe.config
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\bin\Debug\Passaparola_Projesi.exe
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\bin\Debug\Passaparola_Projesi.pdb
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.csproj.AssemblyReference.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.Form1.resources
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.Properties.Resources.resources
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.csproj.GenerateResource.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.exe
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Passaparola_Projesi\obj\Debug\Passaparola_Projesi.pdb

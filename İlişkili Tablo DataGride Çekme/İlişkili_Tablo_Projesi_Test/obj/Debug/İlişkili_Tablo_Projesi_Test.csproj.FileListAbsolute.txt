@@ -1,0 +1,11 @@
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\bin\Debug\İlişkili_Tablo_Projesi_Test.exe.config
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\bin\Debug\İlişkili_Tablo_Projesi_Test.exe
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\bin\Debug\İlişkili_Tablo_Projesi_Test.pdb
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.csproj.AssemblyReference.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.Form1.resources
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.Properties.Resources.resources
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.csproj.GenerateResource.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.exe
+C:\Users\gani9\Desktop\C# Projects\İlişkili Tablo DataGride Çekme\İlişkili_Tablo_Projesi_Test\obj\Debug\İlişkili_Tablo_Projesi_Test.pdb

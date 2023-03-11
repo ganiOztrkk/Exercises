@@ -1,0 +1,13 @@
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.AssemblyReference.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmGiris.resources
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmOgrenciDetay.resources
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmOgretmenDetay.resources
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+C:\Users\gani9\Desktop\C# Projects\Ogrenci Not Kayit Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb
