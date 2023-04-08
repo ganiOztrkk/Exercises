@@ -1,0 +1,15 @@
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\bin\Debug\net6.0\LINQ_Exercise.exe
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\bin\Debug\net6.0\LINQ_Exercise.deps.json
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\bin\Debug\net6.0\LINQ_Exercise.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\bin\Debug\net6.0\LINQ_Exercise.dll
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\bin\Debug\net6.0\LINQ_Exercise.pdb
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.dll
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\refint\LINQ_Exercise.dll
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.pdb
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\LINQ_Exercise.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\Exercises\LINQ Egzersiz\LINQ_Exercise\LINQ_Exercise\obj\Debug\net6.0\ref\LINQ_Exercise.dll
