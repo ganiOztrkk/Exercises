@@ -1,0 +1,14 @@
+Neden N Tier Arc.
+
+Projeye olan hakimiyet artar
+
+Hatalara müdahaleler kolaylaşır
+
+Böl parçala yönet yaklaşımıyla işler daha yalın hale gelir
+
+Solid prensipleri uygun hareket kolaylaşır
+
+Proje okunurluğunu artırır
+
+Temiz kod prensibine uygun hareket kolaylaşır
+
