@@ -1,0 +1,15 @@
+﻿@model InstagramApiViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<br/>
+<div class="container">
+    <label>The Rock Takipçi Sayısı</label>
+    <input type="text" class="form-control" asp-for="followers" style="width: 50%" readonly/>
+    <br/>
+    <label>The Rock Takip Ettiği Kişi Sayısı</label>
+    <input type="text" class="form-control" asp-for="following" style="width: 50%" readonly />
+</div>
